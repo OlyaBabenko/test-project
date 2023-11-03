@@ -1,0 +1,12 @@
+.wrapper {
+    width: 100%;
+}
+
+.wrapper tbody tr {
+    padding-top: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    font-size: 25px;
+}
